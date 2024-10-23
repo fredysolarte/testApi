@@ -32,3 +32,5 @@ Después de que la base de datos esté en marcha, puedes aplicar las migraciones
 6. Ejecutar la API: para ejecutar la API:
 
     dotnet run
+
+
